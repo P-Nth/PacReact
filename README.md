@@ -1,2 +1,2 @@
 # PacReact
-React App with no CRA
+React App with no CRA. Seamless Integration.
